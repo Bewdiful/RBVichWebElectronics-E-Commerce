@@ -13,6 +13,49 @@
 - **Image Uploads**: Hosted on Cloudinary.
 - **Responsive UI**: Built with Tailwind CSS + Shadcn-UI.
 
+
+# RBVichWebElectronics - Full Stack E-Commerce Platform
+
+![Project Banner](https://github.com/user-attachments/assets/050a3ab8-7f37-4e8a-a91a-b8239d6fbe04)
+
+## 📸 Screenshots Gallery
+
+### Core Features
+| ![Homepage](https://github.com/user-attachments/assets/e8c2ff17-72b8-426a-a111-04b0c1bb86c2) | ![Product Details](https://github.com/user-attachments/assets/56e1903d-9196-4af4-9519-453ebbd0999c) |
+|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| **Homepage** - Featured products and categories                                             | **Product Page** - Detailed view with add-to-cart functionality                                  |
+
+| ![Admin Dashboard](https://github.com/user-attachments/assets/295ea4df-61b1-4c3a-be2a-f5c136053397) | ![Checkout Process](https://github.com/user-attachments/assets/a4c01de4-132b-4e5c-98a4-555da22f5ee5) |
+|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| **Admin Dashboard** - Manage products, orders, and users                                           | **Secure Checkout** - PayPal integration for seamless payments                                   |
+
+### User Experience
+| ![Search Functionality](https://github.com/user-attachments/assets/72dedbf9-d8ae-48c6-b071-ef3a4a8c6d2f) | ![User Profile](https://github.com/user-attachments/assets/4475cdb6-4d35-4d14-9883-169e92f7dcc6) |
+|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| **Smart Search** - Find products instantly                                                              | **User Profile** - Personal details and order history                                           |
+
+| ![Order History](https://github.com/user-attachments/assets/90c2f046-27dd-4c61-a537-2ba4f570af8f) | ![Mobile View](https://github.com/user-attachments/assets/88391fc8-d1c6-43ae-901d-e83acfd8d9e9) |
+|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| **Order Tracking** - View past purchases and statuses                                               | **Mobile Optimized** - Fully responsive design                                                  |
+
+### Key Highlights
+![Hero Section](https://github.com/user-attachments/assets/050a3ab8-7f37-4e8a-a91a-b8239d6fbe04)
+*Landing Page - Modern UI with featured products*
+
+## 🛠️ Technical Stack
+**Frontend**: React (Vite) + Shadcn-UI + Tailwind CSS  
+**Backend**: Node.js + Express  
+**Database**: MongoDB  
+**Payment**: PayPal Integration  
+**Hosting**: Cloudinary for media storage  
+
+## 🌟 Features
+- Role-based authentication (Admin/Customer)
+- Product management system
+- Shopping cart with Redux state management
+- Responsive mobile-first design
+- Secure payment processing
+- 
 ---
 
 ## 📸 Screenshots
