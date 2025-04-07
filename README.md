@@ -1,4 +1,5 @@
 # RBVichWebElectronics E-Commerce 🛒
+![image](https://github.com/user-attachments/assets/7c14e05e-b695-4ebe-a00b-62d03af88556)
 
 *A modern MERN stack e-commerce platform with admin dashboard, payment integration, and responsive UI.*
 
